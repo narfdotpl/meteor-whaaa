@@ -1,1 +1,1 @@
-http://narfdotpl.github.com/narfdotpl/meteor-whaaa
+http://narfdotpl.github.com/meteor-whaaa
